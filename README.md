@@ -1,7 +1,7 @@
 # Personal_Info_Validator
 
 ## Image of the System
-<img width="530" alt="image" src="https://github.com/mohamadd10/Personal_Info_Validator/assets/119814738/d8a0b4b4-a87a-48c8-a790-271778f21749">
+<img width="430" alt="image" src="https://github.com/mohamadd10/Personal_Info_Validator/assets/119814738/d8a0b4b4-a87a-48c8-a790-271778f21749">
 
 ## Overview
 This Windows Forms application is designed in C# to handle and validate personal data efficiently. It provides functionalities to input, register, and verify personal details such as first names, last names, and personal identification numbers using the Luhn algorithm to ensure accuracy and validity.
